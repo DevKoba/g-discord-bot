@@ -1,0 +1,14 @@
+{
+  "name": "g-discord-bot",
+  "version": "0.0.1",
+  "description": "Team Starlight bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Koba",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
